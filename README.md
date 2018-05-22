@@ -1,9 +1,12 @@
 # vsCode-settings
+GIST信息
+-------------------
 
 远程同步GIST NAME：   vscode settings
 远程同步GIST ID：     faddd822f6d81a1b77bfdc61a80680f1
 
 用户设置：
+-------------------------------
 {
     "sync.gist": "faddd822f6d81a1b77bfdc61a80680f1",
     "sync.host": "",
